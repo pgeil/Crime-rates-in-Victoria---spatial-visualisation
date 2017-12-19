@@ -1,6 +1,5 @@
 # Crime rates in Victoria - spatial visualisation
 
-<img src="images/Crimestoppers_RGB.png", width=250, height=250, ALIGN="right">
 This instructional notebook investigates the reported crime rates in Victoria, Australia. This is by no means production code, it's designed to explain some of the steps involved in analysing and visualising data spatially.
 
 Author: [Paul Geil](http://www.ph.unimelb.edu.au/~geilp/index.html)
@@ -32,12 +31,12 @@ Alternatively, if you can install the packages with [pip](https://pip.pypa.io/en
 
 ## Topics covered
 
-- 1. Introduction
-- 2. Local Government Areas
-- 3. Crime rates
-    - 3.1 Just the numbers
-    - 3.2 Spatial visualisation
-- 4. Digging deeper into the crime statistics
-    - 4.1 Crime rate by division
-    - 4.2 Crime rate by subdivision
-- 5. Final remarks
+- Introduction
+- Local Government Areas
+- Crime rates
+    - Just the numbers
+    - Spatial visualisation
+- Digging deeper into the crime statistics
+    - Crime rate by division
+    - Crime rate by subdivision
+- Final remarks
