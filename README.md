@@ -20,7 +20,7 @@ This notebook uses several Python packages. Some come standard with the [Anacond
 * **[bokeh](https://bokeh.pydata.org/en/latest/)**: an interactive visualisation library that targets modern web browsers for presentation.
 * **[matplotlib](https://matplotlib.org/)**: a basic plotting library; most other plotting libraries are built on top of it.
 * **[seaborn](https://seaborn.pydata.org/)**: an advanced statistical plotting library.
-* **[ipywidgets](https://ipywidgets.readthedocs.io/en/stable/index.html)**: a library for including interative widgets in jupyter notbooks.
+* **[ipywidgets](https://ipywidgets.readthedocs.io/en/stable/index.html)**: a library for including interactive widgets in jupyter notbooks.
 
 To make sure you have all of the packages you need, install them with `conda`:
 
